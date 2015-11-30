@@ -4,6 +4,6 @@ Simple gnuplot script to plot latitude-longitude coordinates on a World map. The
 
 # Acknowledgements
 
-The script is based on a blog post by Brighten Godfrey [1] on how to generate attractive scientific plots using gnuplot.
+The script is based on a blog post by Brighten Godfrey [[1]] on how to generate attractive scientific plots using gnuplot.
 
 [1]: http://youinfinitesnake.blogspot.de/2011/02/attractive-scientific-plots-with.html
