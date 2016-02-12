@@ -3,7 +3,7 @@
 set terminal pdfcairo transparent enhanced font "Gill Sans, 16" linewidth 2 rounded dashed
 
 # NOTE: Clear Sans is a free font, and is a good alternative to the above.
-# set terminal pdfcairo transparent enhanced font "Gill Sans, 16" linewidth 2 rounded dashed
+# set terminal pdfcairo transparent enhanced font "Clear Sans, 16" linewidth 2 rounded dashed
 
 set style line 80 lc rgb "#404040" lt 1 lw 1
 set border 0 back ls 80
